@@ -1,4 +1,4 @@
-# Sao kê API 🔮
+# Sao kê API 💸
 
 > Currently working right now!
 
@@ -28,7 +28,7 @@ fetch("https://soundke.vercel.app/api/")
 | GET path | Result| Params|
 | :------------ | ---------- | :----------- |
 | `/api/`| test for api| |
-| `/api/search/:keywork` | return card with keyword include `name` | `'/khoa-nguyen'`,`'/phuong-hang'`... |
+| `/api/search/:keywork` | return data with keyword include `name` | `'/khoa-nguyen'`,`'/phuong-hang'`... |
 
 **JSON format:**
 ```json
